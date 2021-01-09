@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "524261038240",
+    "project_id": "movapp-5f54f",
+    "storage_bucket": "movapp-5f54f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524261038240:android:c2220cc93e08737f4fd1c5",
+        "android_client_info": {
+          "package_name": "com.josua.movapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524261038240-udq5t9jjaq93c4ubk0veeip9qic3u5r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josua.movapp",
+            "certificate_hash": "75c49836572bb5fa055fdf0a54cb8f40f17ea458"
+          }
+        },
+        {
+          "client_id": "524261038240-q0c9be177u7nsoakqt59k96gq12pv4e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdLf4I5UOzjNlZ1Gij_o30C798qCNmrhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524261038240-q0c9be177u7nsoakqt59k96gq12pv4e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
